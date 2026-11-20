@@ -104,7 +104,7 @@ export const WishlistModal: React.FC<WishlistModalProps> = ({
               </div>
               <h4 className="font-sans text-base font-black text-[#232B25]">Your Wishlist is Empty</h4>
               <p className="text-xs text-[#232B25]/70 max-w-xs mx-auto">
-                Click the heart icon on any photo in the gallery or theme card to save it here. It will stay saved even after refreshing or leaving!
+                Click the heart icon on any photo in the gallery or theme card to save it here.
               </p>
             </div>
           ) : (
